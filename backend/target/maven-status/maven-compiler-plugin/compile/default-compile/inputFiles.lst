@@ -1,7 +1,17 @@
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/FinanceTrackerApplication.java
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/agent/package-info.java
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/config/CorsConfig.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/controller/GlobalExceptionHandler.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/controller/TransactionController.java
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/controller/package-info.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/exception/ResourceNotFoundException.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/model/SummaryDTO.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/model/Transaction.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/model/TransactionDTO.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/model/TransactionMapper.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/model/TransactionType.java
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/model/package-info.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/repository/TransactionRepository.java
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/repository/package-info.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/service/TransactionService.java
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/service/package-info.java
