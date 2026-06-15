@@ -1,6 +1,8 @@
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/FinanceTrackerApplication.java
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/agent/package-info.java
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/config/CorsConfig.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/config/GeminiConfig.java
+/Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/controller/AiController.java
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/controller/GlobalExceptionHandler.java
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/controller/TransactionController.java
 /Users/user/Desktop/my-workspace/training/ai/personal-finance-tracker/backend/src/main/java/com/financetracker/controller/package-info.java

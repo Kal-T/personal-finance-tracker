@@ -26,3 +26,8 @@ spring:
         chat:
           options:
             model: gemini-1.5-flash
+      genai:
+        api-key: ${spring.ai.google.gemini.api-key}
+        chat:
+          options:
+            model: ${spring.ai.google.gemini.chat.options.model}

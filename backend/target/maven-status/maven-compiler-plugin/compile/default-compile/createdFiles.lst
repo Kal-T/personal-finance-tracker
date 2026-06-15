@@ -3,12 +3,14 @@ com/financetracker/service/package-info.class
 com/financetracker/model/TransactionDTO.class
 com/financetracker/config/CorsConfig.class
 com/financetracker/model/Transaction.class
+com/financetracker/controller/AiController.class
 com/financetracker/FinanceTrackerApplication.class
 com/financetracker/model/TransactionType.class
 com/financetracker/model/SummaryDTO$SummaryDTOBuilder.class
 com/financetracker/controller/GlobalExceptionHandler.class
 com/financetracker/service/TransactionService.class
 com/financetracker/repository/package-info.class
+com/financetracker/config/GeminiConfig.class
 com/financetracker/controller/package-info.class
 com/financetracker/exception/ResourceNotFoundException.class
 com/financetracker/controller/TransactionController.class
