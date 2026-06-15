@@ -7,6 +7,7 @@ com/financetracker/controller/AiController.class
 com/financetracker/FinanceTrackerApplication.class
 com/financetracker/model/TransactionType.class
 com/financetracker/model/SummaryDTO$SummaryDTOBuilder.class
+com/financetracker/agent/AnalyzerAgent.class
 com/financetracker/controller/GlobalExceptionHandler.class
 com/financetracker/service/TransactionService.class
 com/financetracker/repository/package-info.class
