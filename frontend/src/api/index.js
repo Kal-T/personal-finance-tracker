@@ -8,4 +8,11 @@ const api = axios.create({
   },
 });
 
+export const getInsights = (from, to) => {
+  return api.get('/api/ai/analyze', {
+    params: { from, to },
+  });
+};
+
 export default api;
+
